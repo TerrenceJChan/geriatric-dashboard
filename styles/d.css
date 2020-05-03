@@ -1,0 +1,33 @@
+/*Elements*/
+
+
+/*IDs*/
+
+
+/*Classes*/
+.box {
+	height: 370px;
+	width: 370px;
+	margin: 5px 5px 5px 5px;
+	/*resize: both;
+	overflow: auto;*/
+}
+
+.center {
+	text-align: center;
+}
+
+img.layout-preview {
+	height: 18%;
+	width: 32%;
+}
+
+label.userpass {
+	width: 100px;
+	display: inline-block;
+}
+
+.profile-face {
+	width: 400px;
+	height: 400px;
+}
